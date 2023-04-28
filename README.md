@@ -2,34 +2,55 @@
 The Github repository has 3 folders:
 
 1.) Data: containing original dataset vehicles.csv and new datasets I created;
+
 2.) Jupyter Notebooks : containing the 1st Data Cleaning Phase (the 1st file to be opened) and subsequent notebooks: each per type of car;
+
 3.) Reports: containing a report for UCB  and  report for the "client".
 
 For this assignment I assumed that the report I am making is for a national used car dealership (such as Vroom or Carvana) that ships the cars to all states.
 
 Since this is a national dealer I concentrated on types of cars. Anyone buying a car has a particular type of car in mind depending on their needs. A large family might buy a minivan, a contractor might go for a pickup, a student might go for a coup, while a dog owner might want to have a wagon. All these cars have different features that are attractive to a buyer. I also separated cars that are 25+ years old because they are considered antiques by definition. Hence I decided to divide the data into groups by type of the car:
  Sedan
+ 
  SUV
+ 
  Pickup
+ 
  Truck
+ 
  Coupe
+ 
  Hatchback
+ 
  Convertible
+ 
  Van
+ 
  Wagon
+ 
  Minivan
+ 
  Bus
+ 
  Offroad
+ 
  Antiques
+ 
  Convertible
+ 
  Van
+
  Wagon
+ 
  Minivan
+ 
  Bus
+ 
  Offroad
+ 
  Antiques
 
-Since the dealer has a national database and ships the cars to all locations the state and region column/feature will not be considered in my ML model. *
+Since the dealer has a national database and ships the cars to all locations the state and region column/feature will not be considered in my ML model.
 
 THE PROCESS OF CREATING BEST ML MODEL
 

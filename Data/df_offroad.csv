@@ -1,0 +1,385 @@
+region,price,manufacturer,condition,cylinders,fuel,odometer,title_status,transmission,drive,type,paint_color,state,age
+auburn,17500,toyota,good,6 cylinders,gas,201300.0,clean,manual,4wd,offroad,black,al,14.0
+birmingham,17999,jeep,excellent,6 cylinders,gas,125000.0,clean,automatic,4wd,offroad,black,al,10.0
+huntsville / decatur,13500,jeep,good,6 cylinders,gas,199000.0,clean,manual,4wd,offroad,green,al,18.0
+anchorage / mat-su,27995,jeep,like new,4 cylinders,gas,27679.0,clean,automatic,4wd,offroad,white,ak,5.0
+anchorage / mat-su,39995,jeep,like new,6 cylinders,gas,29470.0,clean,manual,4wd,offroad,red,ak,6.0
+anchorage / mat-su,39995,ram,excellent,8 cylinders,gas,120673.0,clean,automatic,4wd,offroad,white,ak,8.0
+anchorage / mat-su,36995,ram,like new,6 cylinders,diesel,130114.0,clean,automatic,4wd,offroad,white,ak,11.0
+anchorage / mat-su,27995,jeep,like new,4 cylinders,gas,27679.0,clean,automatic,4wd,offroad,white,ak,5.0
+anchorage / mat-su,39995,jeep,like new,6 cylinders,gas,29470.0,clean,manual,4wd,offroad,red,ak,6.0
+anchorage / mat-su,27995,jeep,like new,4 cylinders,gas,27679.0,clean,automatic,4wd,offroad,white,ak,5.0
+anchorage / mat-su,39995,ram,excellent,8 cylinders,gas,120673.0,clean,automatic,4wd,offroad,white,ak,8.0
+anchorage / mat-su,39995,ram,excellent,8 cylinders,gas,120673.0,clean,automatic,4wd,offroad,white,ak,8.0
+anchorage / mat-su,27995,jeep,like new,4 cylinders,gas,27679.0,clean,automatic,4wd,offroad,white,ak,5.0
+anchorage / mat-su,27995,jeep,like new,4 cylinders,gas,27679.0,clean,automatic,4wd,offroad,white,ak,5.0
+flagstaff / sedona,3500,chevrolet,good,8 cylinders,gas,70000.0,clean,manual,4wd,offroad,brown,az,23.0
+flagstaff / sedona,12000,jeep,excellent,6 cylinders,gas,141000.0,clean,manual,4wd,offroad,red,az,20.0
+flagstaff / sedona,12000,jeep,good,5 cylinders,gas,141000.0,clean,manual,4wd,offroad,red,az,20.0
+flagstaff / sedona,14500,jeep,excellent,6 cylinders,gas,80240.0,clean,automatic,4wd,offroad,green,az,18.0
+flagstaff / sedona,5499,ford,good,10 cylinders,gas,27000.0,clean,automatic,4wd,offroad,red,az,19.0
+mohave county,16000,jeep,like new,6 cylinders,gas,77000.0,clean,automatic,4wd,offroad,green,az,22.0
+mohave county,10000,jeep,salvage,6 cylinders,gas,222000.0,salvage,automatic,4wd,offroad,blue,az,24.0
+phoenix,10900,toyota,good,8 cylinders,gas,85000.0,clean,automatic,4wd,offroad,blue,az,14.0
+phoenix,7900,toyota,good,8 cylinders,gas,257000.0,clean,automatic,,offroad,silver,az,20.0
+phoenix,25500,jeep,like new,,gas,96500.0,clean,automatic,,offroad,black,az,8.0
+phoenix,24000,ford,good,8 cylinders,diesel,250000.0,clean,automatic,4wd,offroad,white,az,14.0
+phoenix,18500,jeep,excellent,6 cylinders,gas,86000.0,lien,automatic,4wd,offroad,silver,az,10.0
+phoenix,18500,jeep,excellent,6 cylinders,gas,86000.0,lien,automatic,4wd,offroad,silver,az,10.0
+prescott,24000,jeep,like new,6 cylinders,gas,62200.0,clean,automatic,4wd,offroad,silver,az,12.0
+prescott,12500,land rover,excellent,8 cylinders,gas,105000.0,clean,manual,4wd,offroad,grey,az,15.0
+prescott,12995,jeep,like new,6 cylinders,gas,92050.0,clean,automatic,4wd,offroad,blue,az,19.0
+prescott,8800,jeep,,6 cylinders,gas,174800.0,clean,automatic,4wd,offroad,red,az,23.0
+tucson,23000,jeep,like new,6 cylinders,gas,97000.0,clean,automatic,,offroad,white,az,11.0
+tucson,10000,jeep,like new,6 cylinders,gas,148000.0,clean,manual,4wd,offroad,brown,az,19.0
+tucson,30200,ford,good,8 cylinders,diesel,120000.0,clean,automatic,4wd,offroad,white,az,14.0
+tucson,39989,jeep,excellent,6 cylinders,gas,16872.0,clean,automatic,4wd,offroad,grey,az,4.0
+yuma,10500,jeep,good,6 cylinders,gas,177304.0,clean,manual,4wd,offroad,black,az,23.0
+yuma,19500,jeep,like new,6 cylinders,gas,105401.0,clean,automatic,4wd,offroad,black,az,19.0
+fayetteville,14000,jeep,good,6 cylinders,gas,165000.0,clean,manual,4wd,offroad,blue,ar,22.0
+jonesboro,18000,jeep,excellent,6 cylinders,gas,121817.0,clean,automatic,4wd,offroad,silver,ar,19.0
+little rock,31500,toyota,excellent,8 cylinders,gas,86000.0,clean,automatic,4wd,offroad,black,ar,6.0
+texarkana,88000,NA manufacturer,good,8 cylinders,diesel,83000.0,clean,automatic,4wd,offroad,grey,ar,23.0
+bakersfield,0,jeep,excellent,6 cylinders,gas,83862.0,clean,automatic,4wd,offroad,silver,ca,8.0
+bakersfield,36885,ram,excellent,8 cylinders,gas,61400.0,clean,automatic,rwd,offroad,grey,ca,5.0
+bakersfield,0,chevrolet,excellent,8 cylinders,gas,79384.0,clean,automatic,4wd,offroad,silver,ca,5.0
+bakersfield,16000,jeep,excellent,6 cylinders,gas,109813.0,clean,manual,4wd,offroad,red,ca,21.0
+bakersfield,0,jeep,excellent,4 cylinders,gas,20827.0,clean,automatic,4wd,offroad,grey,ca,3.0
+fresno / madera,0,jeep,excellent,6 cylinders,gas,83862.0,clean,automatic,4wd,offroad,silver,ca,8.0
+fresno / madera,52999,jeep,like new,6 cylinders,gas,21637.0,clean,automatic,4wd,offroad,red,ca,2.0
+fresno / madera,0,chevrolet,excellent,8 cylinders,gas,79384.0,clean,automatic,4wd,offroad,silver,ca,5.0
+fresno / madera,37500,toyota,,6 cylinders,gas,28500.0,clean,manual,4wd,offroad,,ca,4.0
+fresno / madera,13999,jeep,like new,4 cylinders,gas,300.0,clean,automatic,4wd,offroad,grey,ca,18.0
+hanford-corcoran,0,jeep,excellent,6 cylinders,gas,83862.0,clean,automatic,4wd,offroad,silver,ca,8.0
+hanford-corcoran,0,jeep,excellent,4 cylinders,gas,20827.0,clean,automatic,4wd,offroad,grey,ca,3.0
+hanford-corcoran,0,chevrolet,excellent,8 cylinders,gas,79384.0,clean,automatic,4wd,offroad,silver,ca,5.0
+humboldt county,12500,toyota,excellent,8 cylinders,gas,293000.0,clean,automatic,4wd,offroad,blue,ca,20.0
+humboldt county,19900,jeep,excellent,6 cylinders,gas,123500.0,clean,automatic,4wd,offroad,black,ca,13.0
+humboldt county,13750,jeep,good,6 cylinders,gas,120000.0,salvage,automatic,4wd,offroad,white,ca,11.0
+humboldt county,14000,toyota,excellent,8 cylinders,gas,293000.0,clean,automatic,4wd,offroad,blue,ca,20.0
+humboldt county,15000,toyota,excellent,8 cylinders,gas,293000.0,clean,automatic,4wd,offroad,blue,ca,20.0
+humboldt county,13750,jeep,good,6 cylinders,gas,120000.0,salvage,automatic,4wd,offroad,white,ca,11.0
+inland empire,9900,jeep,excellent,4 cylinders,gas,122000.0,clean,manual,4wd,offroad,red,ca,24.0
+los angeles,7000,mini,excellent,4 cylinders,gas,200000.0,clean,automatic,fwd,offroad,blue,ca,10.0
+los angeles,11999,lexus,excellent,8 cylinders,gas,144500.0,clean,automatic,4wd,offroad,grey,ca,17.0
+los angeles,39100,jeep,excellent,6 cylinders,gas,45315.0,clean,automatic,4wd,offroad,white,ca,4.0
+los angeles,29850,jeep,like new,6 cylinders,gas,28700.0,clean,manual,4wd,offroad,black,ca,13.0
+los angeles,40000,jeep,excellent,,gas,30000.0,clean,automatic,4wd,offroad,black,ca,4.0
+los angeles,29900,toyota,like new,6 cylinders,gas,77562.0,clean,automatic,4wd,offroad,,ca,5.0
+los angeles,2900,ford,good,6 cylinders,gas,201000.0,clean,automatic,4wd,offroad,silver,ca,17.0
+merced,14000,jeep,excellent,4 cylinders,gas,93400.0,clean,automatic,4wd,offroad,red,ca,7.0
+monterey bay,54000,jeep,like new,6 cylinders,gas,12000.0,clean,automatic,4wd,offroad,red,ca,6.0
+monterey bay,2500,jeep,good,6 cylinders,gas,189000.0,clean,automatic,rwd,offroad,grey,ca,24.0
+orange county,13500,jeep,good,6 cylinders,gas,69071.0,clean,automatic,4wd,offroad,red,ca,23.0
+orange county,50000,toyota,excellent,8 cylinders,gas,10000.0,clean,automatic,4wd,offroad,grey,ca,3.0
+orange county,28500,jeep,new,6 cylinders,gas,35011.0,clean,automatic,4wd,offroad,silver,ca,4.0
+orange county,15000,toyota,excellent,6 cylinders,gas,198000.0,clean,automatic,4wd,offroad,black,ca,12.0
+orange county,15950,lexus,excellent,8 cylinders,gas,165000.0,clean,automatic,4wd,offroad,orange,ca,15.0
+orange county,28000,jeep,excellent,6 cylinders,gas,80000.0,clean,automatic,4wd,offroad,silver,ca,8.0
+orange county,14500,jeep,like new,6 cylinders,gas,150000.0,clean,automatic,4wd,offroad,yellow,ca,14.0
+redding,11000,gmc,excellent,6 cylinders,gas,175000.0,clean,automatic,fwd,offroad,brown,ca,14.0
+redding,13750,jeep,good,6 cylinders,gas,120000.0,salvage,automatic,4wd,offroad,white,ca,11.0
+redding,5800,jeep,good,6 cylinders,gas,148000.0,clean,automatic,4wd,offroad,grey,ca,18.0
+redding,6900,jeep,excellent,6 cylinders,gas,140000.0,clean,automatic,4wd,offroad,blue,ca,10.0
+redding,13750,jeep,good,6 cylinders,gas,120000.0,salvage,automatic,4wd,offroad,white,ca,11.0
+reno / tahoe,7200,jeep,good,4 cylinders,gas,182300.0,clean,manual,4wd,offroad,blue,ca,20.0
+reno / tahoe,28000,toyota,excellent,6 cylinders,gas,74000.0,clean,automatic,4wd,offroad,,ca,5.0
+reno / tahoe,20000,jeep,excellent,6 cylinders,gas,114000.0,clean,manual,4wd,offroad,blue,ca,20.0
+reno / tahoe,23995,jeep,like new,6 cylinders,gas,120652.0,clean,automatic,,offroad,black,ca,12.0
+reno / tahoe,23995,jeep,like new,6 cylinders,gas,120652.0,clean,automatic,,offroad,black,ca,12.0
+reno / tahoe,16995,jeep,good,6 cylinders,gas,191421.0,clean,automatic,4wd,offroad,,ca,14.0
+reno / tahoe,23995,jeep,like new,6 cylinders,gas,120652.0,clean,automatic,,offroad,black,ca,12.0
+reno / tahoe,7500,jeep,good,4 cylinders,gas,123450.0,clean,manual,4wd,offroad,red,ca,24.0
+reno / tahoe,18000,ford,good,,diesel,187000.0,clean,manual,4wd,offroad,silver,ca,22.0
+reno / tahoe,2750,jeep,fair,6 cylinders,gas,228000.0,clean,automatic,4wd,offroad,blue,ca,18.0
+sacramento,18500,jeep,excellent,6 cylinders,gas,73813.0,clean,automatic,4wd,offroad,,ca,17.0
+sacramento,23000,jeep,excellent,6 cylinders,gas,78000.0,clean,automatic,4wd,offroad,silver,ca,14.0
+sacramento,19750,jeep,excellent,6 cylinders,gas,88100.0,clean,manual,4wd,offroad,black,ca,10.0
+san diego,9900,jeep,excellent,4 cylinders,gas,122000.0,clean,manual,4wd,offroad,red,ca,24.0
+san diego,22500,jeep,excellent,6 cylinders,gas,71300.0,clean,manual,4wd,offroad,,ca,17.0
+san diego,12500,NA manufacturer,good,4 cylinders,gas,90000.0,clean,manual,rwd,offroad,purple,ca,10.0
+san diego,22500,jeep,excellent,6 cylinders,gas,71300.0,clean,manual,4wd,offroad,,ca,17.0
+san diego,5000,gmc,good,8 cylinders,gas,180000.0,clean,automatic,4wd,offroad,white,ca,20.0
+san diego,12800,jeep,excellent,6 cylinders,gas,155000.0,clean,automatic,rwd,offroad,orange,ca,17.0
+san diego,21990,jeep,like new,6 cylinders,gas,22000.0,salvage,automatic,4wd,offroad,silver,ca,7.0
+san diego,26000,jeep,excellent,6 cylinders,gas,66000.0,clean,manual,4wd,offroad,brown,ca,18.0
+san luis obispo,20000,jeep,excellent,6 cylinders,gas,87000.0,clean,automatic,4wd,offroad,black,ca,17.0
+SF bay area,23950,jeep,excellent,6 cylinders,gas,95000.0,clean,automatic,4wd,offroad,silver,ca,6.0
+SF bay area,30000,toyota,good,4 cylinders,gas,56500.0,clean,automatic,4wd,offroad,grey,ca,6.0
+SF bay area,4500,land rover,good,8 cylinders,gas,162000.0,clean,automatic,4wd,offroad,black,ca,20.0
+SF bay area,24000,jeep,excellent,6 cylinders,gas,76500.0,clean,automatic,4wd,offroad,black,ca,15.0
+SF bay area,2295,jeep,fair,,gas,158476.0,clean,automatic,,offroad,white,ca,23.0
+ventura county,8000,jeep,good,6 cylinders,gas,233816.0,clean,automatic,4wd,offroad,red,ca,21.0
+visalia-tulare,0,jeep,excellent,6 cylinders,gas,83862.0,clean,automatic,4wd,offroad,silver,ca,8.0
+visalia-tulare,0,chevrolet,excellent,8 cylinders,gas,79384.0,clean,automatic,4wd,offroad,silver,ca,5.0
+yuba-sutter,4900,toyota,good,6 cylinders,gas,271000.0,clean,automatic,rwd,offroad,silver,ca,17.0
+colorado springs,60000,jeep,like new,4 cylinders,gas,14445.0,clean,automatic,4wd,offroad,grey,co,3.0
+colorado springs,21000,jeep,excellent,6 cylinders,gas,100000.0,clean,manual,4wd,offroad,blue,co,12.0
+colorado springs,25100,jeep,like new,6 cylinders,gas,43915.0,clean,automatic,4wd,offroad,silver,co,6.0
+colorado springs,16500,toyota,excellent,6 cylinders,gas,193831.0,clean,automatic,4wd,offroad,white,co,14.0
+denver,23000,jeep,excellent,6 cylinders,gas,83214.0,clean,manual,4wd,offroad,green,co,10.0
+denver,33000,jeep,excellent,6 cylinders,gas,88000.0,lien,automatic,4wd,offroad,grey,co,9.0
+denver,12000,toyota,good,6 cylinders,gas,204970.0,clean,manual,rwd,offroad,white,co,22.0
+pueblo,30000,jeep,excellent,6 cylinders,gas,58500.0,clean,automatic,4wd,offroad,silver,co,10.0
+western slope,26500,jeep,excellent,6 cylinders,gas,76950.0,clean,manual,4wd,offroad,orange,co,13.0
+hartford,4995,volvo,excellent,5 cylinders,gas,145850.0,clean,automatic,4wd,offroad,silver,ct,15.0
+hartford,4995,volvo,excellent,5 cylinders,gas,145850.0,clean,automatic,4wd,offroad,silver,ct,15.0
+hartford,28000,jeep,excellent,6 cylinders,gas,70000.0,clean,automatic,4wd,offroad,black,ct,9.0
+hartford,18399,jeep,,6 cylinders,gas,103000.0,clean,manual,4wd,offroad,black,ct,11.0
+new haven,28000,jeep,excellent,6 cylinders,gas,70000.0,clean,automatic,4wd,offroad,black,ct,9.0
+"washington, DC",7500,jeep,excellent,4 cylinders,gas,142000.0,clean,manual,4wd,offroad,green,dc,23.0
+"washington, DC",35000,jeep,like new,4 cylinders,gas,39500.0,clean,manual,4wd,offroad,red,dc,10.0
+daytona beach,4900,NA manufacturer,like new,other,gas,,clean,automatic,rwd,offroad,black,fl,9.0
+daytona beach,3800,jeep,good,6 cylinders,gas,86000.0,clean,automatic,4wd,offroad,white,fl,23.0
+ft myers / SW florida,3500,jeep,fair,6 cylinders,gas,150000.0,clean,automatic,4wd,offroad,purple,fl,23.0
+ft myers / SW florida,11500,subaru,excellent,4 cylinders,gas,73200.0,clean,automatic,4wd,offroad,grey,fl,11.0
+ft myers / SW florida,39000,jeep,excellent,6 cylinders,gas,19043.0,clean,automatic,4wd,offroad,blue,fl,5.0
+ft myers / SW florida,37000,jeep,excellent,6 cylinders,gas,37000.0,clean,automatic,4wd,offroad,black,fl,4.0
+ft myers / SW florida,39900,jeep,excellent,6 cylinders,gas,36700.0,clean,automatic,4wd,offroad,black,fl,4.0
+gainesville,15000,jeep,like new,6 cylinders,gas,84300.0,clean,automatic,4wd,offroad,silver,fl,17.0
+lakeland,32500,toyota,excellent,6 cylinders,gas,76500.0,clean,automatic,4wd,offroad,blue,fl,7.0
+okaloosa / walton,16900,jeep,excellent,6 cylinders,gas,118259.0,clean,automatic,4wd,offroad,black,fl,14.0
+okaloosa / walton,22995,NA manufacturer,excellent,6 cylinders,gas,40999.0,clean,manual,4wd,offroad,black,fl,17.0
+okaloosa / walton,22995,NA manufacturer,excellent,6 cylinders,gas,40999.0,clean,manual,4wd,offroad,black,fl,17.0
+orlando,12000,jeep,excellent,6 cylinders,gas,111174.0,clean,manual,4wd,offroad,white,fl,23.0
+orlando,3995,chevrolet,good,8 cylinders,gas,11111.0,missing,manual,rwd,offroad,silver,fl,22.0
+orlando,23000,jeep,excellent,6 cylinders,gas,148000.0,clean,manual,4wd,offroad,blue,fl,11.0
+orlando,27000,jeep,like new,6 cylinders,gas,112000.0,clean,automatic,4wd,offroad,black,fl,11.0
+pensacola,16900,jeep,excellent,6 cylinders,gas,118259.0,clean,automatic,4wd,offroad,black,fl,14.0
+pensacola,22995,jeep,excellent,6 cylinders,gas,40999.0,clean,manual,4wd,offroad,black,fl,17.0
+pensacola,22995,jeep,excellent,6 cylinders,gas,40999.0,clean,manual,4wd,offroad,black,fl,17.0
+space coast,4500,NA manufacturer,excellent,other,gas,,clean,automatic,rwd,offroad,black,fl,9.0
+st augustine,6500,nissan,fair,,gas,126000.0,clean,automatic,,offroad,red,fl,14.0
+tallahassee,13,toyota,excellent,6 cylinders,gas,179000.0,clean,automatic,4wd,offroad,brown,fl,15.0
+tampa bay area,14800,jeep,excellent,6 cylinders,gas,89012.0,clean,manual,4wd,offroad,silver,fl,19.0
+tampa bay area,12700,jeep,excellent,4 cylinders,gas,106021.0,clean,manual,4wd,offroad,black,fl,18.0
+tampa bay area,16998,jeep,excellent,6 cylinders,gas,169028.0,clean,automatic,4wd,offroad,green,fl,11.0
+atlanta,9900,jeep,good,6 cylinders,gas,170795.0,clean,manual,4wd,offroad,black,ga,20.0
+atlanta,24900,jeep,like new,6 cylinders,gas,25759.0,clean,manual,4wd,offroad,red,ga,16.0
+atlanta,12900,toyota,excellent,6 cylinders,gas,226000.0,clean,manual,4wd,offroad,red,ga,16.0
+augusta,27000,jeep,excellent,8 cylinders,gas,55000.0,clean,automatic,4wd,offroad,black,ga,18.0
+macon / warner robins,8900,nissan,excellent,6 cylinders,gas,159290.0,salvage,automatic,rwd,offroad,custom,ga,9.0
+savannah / hinesville,11500,ford,excellent,8 cylinders,gas,134000.0,clean,automatic,4wd,offroad,black,ga,16.0
+statesboro,10500,jeep,good,6 cylinders,gas,165000.0,clean,automatic,4wd,offroad,purple,ga,15.0
+valdosta,21000,jeep,good,6 cylinders,gas,97000.0,clean,manual,4wd,offroad,silver,ga,9.0
+hawaii,7995,ford,excellent,8 cylinders,diesel,209500.0,clean,automatic,4wd,offroad,black,hi,20.0
+hawaii,15000,jeep,good,6 cylinders,gas,122000.0,clean,automatic,4wd,offroad,black,hi,14.0
+hawaii,40999,toyota,like new,6 cylinders,gas,5600.0,clean,automatic,,offroad,grey,hi,3.0
+hawaii,43500,NA manufacturer,good,8 cylinders,gas,62995.0,clean,automatic,4wd,offroad,black,hi,8.0
+boise,10000,toyota,good,8 cylinders,gas,180000.0,clean,automatic,4wd,offroad,blue,id,16.0
+boise,5500,jeep,excellent,8 cylinders,gas,185000.0,clean,automatic,4wd,offroad,silver,id,18.0
+boise,3800,volkswagen,good,4 cylinders,gas,,parts only,manual,rwd,offroad,blue,id,12.0
+boise,2500,dodge,fair,8 cylinders,gas,205936.0,clean,automatic,4wd,offroad,white,id,23.0
+east idaho,23000,jeep,excellent,6 cylinders,gas,134000.0,clean,automatic,4wd,offroad,black,id,22.0
+east idaho,51693,toyota,good,6 cylinders,gas,2890.0,clean,other,4wd,offroad,red,id,1.0
+east idaho,24995,jeep,like new,6 cylinders,gas,112480.0,clean,automatic,4wd,offroad,black,id,8.0
+east idaho,51693,toyota,good,6 cylinders,gas,2890.0,clean,other,4wd,offroad,red,id,1.0
+east idaho,51693,toyota,good,6 cylinders,gas,2890.0,clean,other,4wd,offroad,red,id,1.0
+east idaho,51693,toyota,good,6 cylinders,gas,2890.0,clean,other,4wd,offroad,red,id,1.0
+lewiston / clarkston,10500,jeep,excellent,4 cylinders,gas,98000.0,clean,manual,4wd,offroad,grey,id,17.0
+pullman / moscow,12500,toyota,good,6 cylinders,gas,220000.0,clean,manual,4wd,offroad,white,id,19.0
+spokane / coeur d'alene,9500,jeep,good,4 cylinders,gas,121200.0,clean,manual,4wd,offroad,custom,id,24.0
+spokane / coeur d'alene,30000,jeep,excellent,6 cylinders,gas,72815.0,clean,manual,4wd,offroad,grey,id,9.0
+twin falls,14500,jeep,good,6 cylinders,gas,108000.0,clean,manual,4wd,offroad,black,id,23.0
+chicago,23000,jeep,excellent,6 cylinders,gas,76000.0,clean,automatic,4wd,offroad,green,il,12.0
+chicago,13500,jeep,like new,6 cylinders,gas,71000.0,clean,manual,4wd,offroad,red,il,10.0
+chicago,30000,jeep,excellent,6 cylinders,gas,52108.0,clean,automatic,4wd,offroad,white,il,8.0
+rockford,5000,jeep,fair,6 cylinders,gas,117979.0,clean,automatic,4wd,offroad,black,il,23.0
+southern illinois,8500,jeep,good,6 cylinders,gas,179000.0,clean,manual,4wd,offroad,black,il,22.0
+bloomington,12800,jeep,excellent,6 cylinders,gas,160000.0,rebuilt,automatic,4wd,offroad,black,in,18.0
+fort wayne,4000,jeep,fair,6 cylinders,gas,135000.0,rebuilt,manual,rwd,offroad,black,in,20.0
+south bend / michiana,14500,jeep,excellent,6 cylinders,gas,150000.0,clean,manual,4wd,offroad,green,in,14.0
+terre haute,9995,chevrolet,excellent,8 cylinders,gas,135000.0,clean,automatic,4wd,offroad,silver,in,17.0
+des moines,25499,jeep,excellent,6 cylinders,gas,34738.0,clean,manual,4wd,offroad,silver,ia,7.0
+des moines,30000,jeep,excellent,,gas,116000.0,lien,automatic,4wd,offroad,white,ia,8.0
+des moines,13900,jeep,excellent,6 cylinders,gas,101342.0,clean,manual,4wd,offroad,blue,ia,24.0
+des moines,12900,jeep,excellent,4 cylinders,gas,113646.0,clean,manual,4wd,offroad,red,ia,23.0
+"kansas city, MO",14000,isuzu,excellent,6 cylinders,gas,74400.0,clean,automatic,4wd,offroad,silver,ks,23.0
+"kansas city, MO",5950,honda,like new,6 cylinders,gas,112611.0,clean,automatic,fwd,offroad,white,ks,16.0
+lexington,33500,toyota,like new,4 cylinders,gas,86637.0,clean,automatic,4wd,offroad,brown,ky,8.0
+louisville,2500,ford,fair,8 cylinders,gas,240000.0,clean,automatic,4wd,offroad,white,ky,22.0
+louisville,29500,toyota,excellent,6 cylinders,gas,58626.0,clean,automatic,4wd,offroad,white,ky,14.0
+western KY,8500,jeep,good,6 cylinders,gas,179000.0,clean,manual,4wd,offroad,black,ky,22.0
+monroe,1800,gmc,salvage,,gas,180000.0,clean,automatic,4wd,offroad,black,la,24.0
+new orleans,9200,jeep,excellent,6 cylinders,gas,63500.0,clean,automatic,4wd,offroad,silver,la,16.0
+maine,9000,jeep,good,6 cylinders,gas,133400.0,clean,automatic,4wd,offroad,orange,me,17.0
+boston,36995,jeep,like new,6 cylinders,gas,38000.0,clean,automatic,4wd,offroad,silver,ma,4.0
+south coast,6500,jeep,excellent,4 cylinders,gas,120000.0,clean,manual,4wd,offroad,blue,ma,18.0
+worcester / central MA,10500,jeep,good,6 cylinders,gas,87000.0,salvage,manual,4wd,offroad,black,ma,12.0
+grand rapids,17999,jeep,good,6 cylinders,gas,138000.0,clean,manual,4wd,offroad,red,mi,15.0
+grand rapids,18799,jeep,good,6 cylinders,gas,138000.0,clean,manual,4wd,offroad,red,mi,15.0
+grand rapids,33000,jeep,like new,6 cylinders,gas,34560.0,clean,automatic,4wd,offroad,grey,mi,4.0
+lansing,14900,ford,good,8 cylinders,gas,180508.0,clean,automatic,4wd,offroad,black,mi,13.0
+upper peninsula,6500,jeep,good,4 cylinders,gas,130000.0,clean,manual,4wd,offroad,black,mi,23.0
+upper peninsula,4950,jeep,salvage,4 cylinders,gas,124000.0,parts only,manual,4wd,offroad,red,mi,24.0
+mankato,4800,land rover,excellent,8 cylinders,gas,245000.0,clean,automatic,4wd,offroad,black,mn,20.0
+minneapolis / st paul,35500,jeep,excellent,6 cylinders,gas,31000.0,clean,automatic,4wd,offroad,grey,mn,5.0
+minneapolis / st paul,41999,jeep,like new,4 cylinders,gas,9426.0,clean,automatic,4wd,offroad,black,mn,2.0
+southwest MN,24000,chevrolet,excellent,8 cylinders,gas,70000.0,clean,automatic,4wd,offroad,black,mn,10.0
+jackson,8200,ford,good,8 cylinders,gas,286000.0,clean,automatic,4wd,offroad,white,ms,11.0
+north mississippi,30000,jeep,excellent,6 cylinders,gas,118110.0,clean,automatic,4wd,offroad,black,ms,11.0
+joplin,0,toyota,good,4 cylinders,other,52846.0,clean,automatic,4wd,offroad,orange,mo,4.0
+springfield,12500,chevrolet,excellent,6 cylinders,gas,209000.0,clean,automatic,4wd,offroad,black,mo,14.0
+springfield,15000,chevrolet,excellent,6 cylinders,gas,209000.0,clean,automatic,4wd,offroad,black,mo,14.0
+billings,24995,jeep,like new,6 cylinders,gas,112480.0,clean,automatic,4wd,offroad,black,mt,8.0
+billings,24995,jeep,like new,6 cylinders,gas,112480.0,clean,automatic,4wd,offroad,black,mt,8.0
+bozeman,24995,jeep,like new,6 cylinders,gas,112480.0,clean,automatic,4wd,offroad,black,mt,8.0
+bozeman,11000,ford,excellent,8 cylinders,diesel,20000.0,clean,automatic,4wd,offroad,grey,mt,14.0
+asheville,18000,ford,excellent,,diesel,126000.0,clean,automatic,4wd,offroad,grey,nc,19.0
+eastern NC,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,nc,9.0
+eastern NC,31992,jeep,excellent,6 cylinders,gas,56241.0,clean,automatic,4wd,offroad,black,nc,5.0
+eastern NC,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,nc,9.0
+fayetteville,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,nc,9.0
+greensboro,5200,volvo,like new,5 cylinders,gas,97596.0,salvage,automatic,4wd,offroad,white,nc,15.0
+jacksonville,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,nc,9.0
+jacksonville,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,nc,9.0
+jacksonville,31992,jeep,excellent,6 cylinders,gas,56241.0,clean,automatic,4wd,offroad,black,nc,5.0
+jacksonville,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,nc,9.0
+outer banks,7000,jeep,good,6 cylinders,gas,36000.0,clean,automatic,4wd,offroad,silver,nc,15.0
+raleigh / durham / CH,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,nc,9.0
+raleigh / durham / CH,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,nc,9.0
+wilmington,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,nc,9.0
+wilmington,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,nc,9.0
+wilmington,31992,jeep,excellent,6 cylinders,gas,56241.0,clean,automatic,4wd,offroad,black,nc,5.0
+wilmington,18000,jeep,excellent,6 cylinders,gas,90000.0,clean,automatic,4wd,offroad,black,nc,15.0
+winston-salem,12999,jeep,excellent,6 cylinders,gas,96000.0,rebuilt,manual,4wd,offroad,brown,nc,19.0
+scottsbluff / panhandle,4600,chrysler,excellent,6 cylinders,gas,102580.0,clean,automatic,fwd,offroad,black,ne,16.0
+las vegas,20999,jeep,excellent,6 cylinders,gas,99000.0,clean,automatic,4wd,offroad,silver,nv,11.0
+las vegas,54500,ford,excellent,8 cylinders,gas,99000.0,clean,automatic,4wd,offroad,black,nv,6.0
+las vegas,8500,volkswagen,excellent,4 cylinders,gas,10000.0,missing,manual,rwd,offroad,silver,nv,6.0
+las vegas,14999,jeep,fair,4 cylinders,gas,114782.0,clean,manual,4wd,offroad,orange,nv,21.0
+las vegas,58500,ram,excellent,6 cylinders,diesel,57149.0,clean,automatic,4wd,offroad,grey,nv,9.0
+central NJ,5450,NA manufacturer,excellent,4 cylinders,gas,117000.0,clean,automatic,4wd,offroad,blue,nj,15.0
+central NJ,15000,jeep,excellent,6 cylinders,gas,164000.0,clean,manual,4wd,offroad,green,nj,14.0
+north jersey,9875,jeep,good,6 cylinders,gas,197000.0,clean,manual,4wd,offroad,yellow,nj,20.0
+north jersey,13500,jeep,good,6 cylinders,gas,161000.0,clean,automatic,4wd,offroad,black,nj,11.0
+albuquerque,5000,jeep,fair,6 cylinders,gas,166000.0,clean,manual,4wd,offroad,white,nm,22.0
+albuquerque,16000,jeep,like new,6 cylinders,gas,91800.0,lien,manual,4wd,offroad,silver,nm,15.0
+albuquerque,29900,toyota,excellent,6 cylinders,gas,101000.0,clean,automatic,4wd,offroad,,nm,8.0
+las cruces,13500,toyota,excellent,6 cylinders,gas,184000.0,clean,automatic,4wd,offroad,black,nm,15.0
+roswell / carlsbad,25684,jeep,good,6 cylinders,gas,101594.0,clean,automatic,4wd,offroad,silver,nm,11.0
+albany,10000,jeep,fair,6 cylinders,gas,198000.0,clean,manual,4wd,offroad,yellow,ny,17.0
+buffalo,25000,jeep,excellent,6 cylinders,gas,24000.0,clean,automatic,4wd,offroad,red,ny,7.0
+long island,29999,jeep,like new,6 cylinders,gas,43000.0,clean,automatic,4wd,offroad,orange,ny,9.0
+long island,18000,jeep,excellent,6 cylinders,gas,59000.0,clean,automatic,4wd,offroad,blue,ny,13.0
+long island,38000,jeep,excellent,6 cylinders,gas,37000.0,clean,manual,4wd,offroad,grey,ny,8.0
+long island,1195,volkswagen,fair,4 cylinders,gas,100.0,clean,manual,,offroad,white,ny,1.0
+new york city,16500,jeep,excellent,6 cylinders,gas,118143.0,clean,automatic,4wd,offroad,,ny,12.0
+new york city,5999,land rover,excellent,8 cylinders,gas,138000.0,clean,automatic,4wd,offroad,,ny,18.0
+oneonta,37999,jeep,like new,6 cylinders,gas,10000.0,lien,manual,4wd,offroad,red,ny,6.0
+rochester,21900,jeep,like new,6 cylinders,gas,50000.0,clean,automatic,4wd,offroad,brown,ny,14.0
+rochester,10900,chevrolet,good,8 cylinders,gas,104821.0,clean,automatic,4wd,offroad,silver,ny,18.0
+rochester,8000,jeep,good,6 cylinders,gas,150000.0,clean,manual,4wd,offroad,brown,ny,18.0
+syracuse,3500,nissan,excellent,6 cylinders,gas,245000.0,clean,automatic,4wd,offroad,blue,ny,16.0
+utica-rome-oneida,18000,jeep,excellent,6 cylinders,gas,142669.0,clean,automatic,4wd,offroad,green,ny,12.0
+watertown,25500,ford,good,8 cylinders,diesel,184252.0,clean,automatic,4wd,offroad,blue,ny,19.0
+watertown,15700,toyota,excellent,6 cylinders,gas,169562.0,clean,automatic,4wd,offroad,white,ny,11.0
+new hampshire,36995,jeep,like new,6 cylinders,gas,38000.0,clean,automatic,4wd,offroad,silver,nh,4.0
+new hampshire,36995,jeep,like new,6 cylinders,gas,38000.0,clean,automatic,4wd,offroad,silver,nh,4.0
+north dakota,24995,jeep,like new,6 cylinders,gas,112480.0,clean,automatic,4wd,offroad,black,nd,8.0
+akron / canton,14999,ford,excellent,8 cylinders,diesel,200000.0,clean,automatic,4wd,offroad,white,oh,15.0
+akron / canton,10000,jeep,good,6 cylinders,gas,165000.0,clean,automatic,4wd,offroad,grey,oh,18.0
+cincinnati,3500,jeep,good,6 cylinders,gas,189000.0,clean,automatic,fwd,offroad,grey,oh,23.0
+cleveland,15800,jeep,like new,6 cylinders,gas,94000.0,clean,manual,4wd,offroad,silver,oh,12.0
+cleveland,37900,jeep,like new,,gas,3264.0,clean,automatic,4wd,offroad,black,oh,6.0
+columbus,9995,jeep,good,6 cylinders,gas,163000.0,clean,manual,4wd,offroad,black,oh,13.0
+columbus,10000,jeep,excellent,8 cylinders,gas,118000.0,clean,automatic,4wd,offroad,red,oh,17.0
+youngstown,15800,jeep,like new,6 cylinders,gas,94000.0,clean,manual,4wd,offroad,silver,oh,12.0
+youngstown,13900,jeep,excellent,6 cylinders,gas,166000.0,clean,automatic,4wd,offroad,yellow,oh,14.0
+oklahoma city,23000,jeep,excellent,,gas,95000.0,clean,automatic,4wd,offroad,white,ok,10.0
+oklahoma city,29800,jeep,excellent,6 cylinders,gas,98000.0,clean,automatic,4wd,offroad,custom,ok,7.0
+oklahoma city,12000,jeep,,6 cylinders,gas,92000.0,clean,automatic,4wd,offroad,yellow,ok,21.0
+oklahoma city,23500,subaru,good,4 cylinders,gas,45222.0,rebuilt,manual,fwd,offroad,white,ok,7.0
+tulsa,0,toyota,good,4 cylinders,other,40120.0,clean,automatic,4wd,offroad,,ok,4.0
+bend,26000,jeep,excellent,6 cylinders,gas,95000.0,clean,manual,4wd,offroad,red,or,12.0
+bend,500,toyota,salvage,4 cylinders,gas,200000.0,salvage,automatic,fwd,offroad,white,or,23.0
+klamath falls,40000,jeep,excellent,6 cylinders,gas,82000.0,clean,automatic,4wd,offroad,white,or,8.0
+medford-ashland,10248,jeep,excellent,6 cylinders,gas,106000.0,clean,automatic,4wd,offroad,grey,or,10.0
+portland,8900,toyota,fair,6 cylinders,gas,190800.0,clean,automatic,4wd,offroad,silver,or,19.0
+portland,0,toyota,,6 cylinders,gas,9713.0,clean,automatic,4wd,offroad,,or,2.0
+salem,10000,jeep,excellent,4 cylinders,gas,117177.0,clean,manual,4wd,offroad,blue,or,22.0
+altoona-johnstown,6400,subaru,excellent,4 cylinders,gas,160100.0,clean,automatic,4wd,offroad,,pa,14.0
+lancaster,9995,ford,,6 cylinders,gas,167000.0,clean,automatic,4wd,offroad,,pa,17.0
+lancaster,9995,ford,,6 cylinders,gas,167000.0,clean,automatic,4wd,offroad,,pa,17.0
+lancaster,9700,volkswagen,excellent,,gas,65600.0,rebuilt,automatic,fwd,offroad,black,pa,10.0
+philadelphia,5900,jeep,excellent,,gas,126500.0,clean,automatic,4wd,offroad,silver,pa,18.0
+philadelphia,8800,NA manufacturer,good,6 cylinders,gas,63212.0,clean,automatic,4wd,offroad,custom,pa,16.0
+philadelphia,6499,subaru,like new,4 cylinders,gas,99328.0,clean,manual,4wd,offroad,green,pa,15.0
+pittsburgh,13900,jeep,excellent,6 cylinders,gas,166000.0,clean,automatic,4wd,offroad,yellow,pa,14.0
+poconos,8000,jeep,excellent,6 cylinders,gas,281000.0,clean,automatic,4wd,offroad,black,pa,21.0
+rhode island,19,jeep,excellent,6 cylinders,gas,65000.0,clean,automatic,4wd,offroad,,ri,14.0
+charleston,11000,jeep,good,6 cylinders,gas,120700.0,clean,manual,4wd,offroad,green,sc,17.0
+charleston,17800,jeep,excellent,6 cylinders,gas,159079.0,clean,automatic,4wd,offroad,white,sc,14.0
+charleston,17800,jeep,excellent,6 cylinders,gas,159079.0,clean,automatic,4wd,offroad,white,sc,14.0
+greenville / upstate,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,sc,9.0
+greenville / upstate,31992,jeep,excellent,6 cylinders,gas,56241.0,clean,automatic,4wd,offroad,black,sc,5.0
+greenville / upstate,8000,chevrolet,good,8 cylinders,gas,109000.0,clean,automatic,4wd,offroad,silver,sc,14.0
+myrtle beach,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,sc,9.0
+myrtle beach,23388,jeep,excellent,6 cylinders,gas,136875.0,clean,automatic,4wd,offroad,black,sc,9.0
+rapid city / west SD,24995,jeep,like new,6 cylinders,gas,112480.0,clean,automatic,4wd,offroad,black,sd,8.0
+rapid city / west SD,37000,toyota,excellent,6 cylinders,gas,44000.0,clean,automatic,4wd,offroad,grey,sd,6.0
+chattanooga,19000,jeep,excellent,6 cylinders,gas,86658.0,rebuilt,manual,4wd,offroad,red,tn,14.0
+jackson,59900,jeep,excellent,8 cylinders,gas,5919.0,clean,automatic,4wd,offroad,black,tn,11.0
+memphis,32000,jeep,excellent,6 cylinders,gas,45500.0,clean,automatic,4wd,offroad,black,tn,5.0
+memphis,19500,gmc,good,8 cylinders,gas,127000.0,lien,automatic,4wd,offroad,black,tn,11.0
+nashville,0,jeep,good,6 cylinders,gas,92540.0,clean,automatic,4wd,offroad,black,tn,11.0
+nashville,0,NA manufacturer,excellent,6 cylinders,gas,128316.0,clean,automatic,4wd,offroad,brown,tn,15.0
+nashville,22500,toyota,good,6 cylinders,gas,140000.0,clean,automatic,4wd,offroad,black,tn,15.0
+nashville,0,jeep,excellent,6 cylinders,gas,133829.0,clean,automatic,4wd,offroad,black,tn,11.0
+tri-cities,29500,toyota,good,6 cylinders,gas,116100.0,clean,automatic,4wd,offroad,black,tn,9.0
+austin,12500,jeep,excellent,6 cylinders,gas,158011.0,clean,manual,4wd,offroad,blue,tx,13.0
+austin,6000,jeep,good,4 cylinders,gas,129300.0,salvage,automatic,4wd,offroad,yellow,tx,22.0
+austin,39000,jeep,excellent,6 cylinders,gas,36009.0,clean,automatic,4wd,offroad,red,tx,4.0
+austin,16950,harley-davidson,like new,other,gas,7000.0,clean,manual,rwd,offroad,black,tx,9.0
+austin,13500,jeep,good,6 cylinders,gas,115000.0,clean,automatic,4wd,offroad,yellow,tx,22.0
+dallas / fort worth,6500,ford,good,8 cylinders,gas,204444.0,clean,automatic,4wd,offroad,white,tx,21.0
+dallas / fort worth,8500,land rover,excellent,8 cylinders,gas,132250.0,clean,automatic,4wd,offroad,white,tx,20.0
+el paso,20500,jeep,good,6 cylinders,gas,102000.0,clean,manual,4wd,offroad,black,tx,9.0
+el paso,24250,jeep,excellent,6 cylinders,gas,60000.0,rebuilt,automatic,4wd,offroad,black,tx,7.0
+el paso,4000,NA manufacturer,excellent,,gas,333.0,clean,manual,,offroad,blue,tx,8.0
+el paso,4300,jeep,good,6 cylinders,gas,,clean,automatic,4wd,offroad,black,tx,17.0
+killeen / temple / ft hood,25000,jeep,good,6 cylinders,gas,103000.0,clean,manual,4wd,offroad,silver,tx,8.0
+lubbock,18500,jeep,good,6 cylinders,gas,198700.0,clean,automatic,4wd,offroad,black,tx,19.0
+mcallen / edinburg,6000,jeep,excellent,4 cylinders,gas,198000.0,clean,automatic,4wd,offroad,grey,tx,18.0
+mcallen / edinburg,3500,jeep,good,4 cylinders,gas,,clean,manual,4wd,offroad,white,tx,15.0
+mcallen / edinburg,7000,jeep,good,6 cylinders,gas,211000.0,rebuilt,automatic,4wd,offroad,blue,tx,17.0
+mcallen / edinburg,16000,jeep,excellent,6 cylinders,gas,48600.0,clean,automatic,4wd,offroad,red,tx,22.0
+mcallen / edinburg,48995,ford,like new,8 cylinders,diesel,67250.0,clean,automatic,4wd,offroad,white,tx,5.0
+mcallen / edinburg,123,jeep,excellent,6 cylinders,gas,123458.0,clean,automatic,4wd,offroad,black,tx,13.0
+mcallen / edinburg,1200,NA manufacturer,new,other,other,,clean,other,fwd,offroad,grey,tx,1.0
+odessa / midland,13000,jeep,like new,6 cylinders,gas,136000.0,clean,automatic,4wd,offroad,black,tx,22.0
+odessa / midland,19800,toyota,good,8 cylinders,gas,248000.0,clean,automatic,4wd,offroad,white,tx,24.0
+san antonio,0,jeep,like new,6 cylinders,gas,84500.0,clean,manual,4wd,offroad,yellow,tx,11.0
+san antonio,20500,ram,like new,8 cylinders,gas,73000.0,clean,automatic,4wd,offroad,black,tx,9.0
+san antonio,27500,toyota,like new,6 cylinders,gas,72000.0,clean,automatic,rwd,offroad,white,tx,5.0
+san antonio,19977,jeep,like new,6 cylinders,gas,84500.0,clean,manual,4wd,offroad,yellow,tx,11.0
+san antonio,18000,jeep,fair,6 cylinders,gas,183139.0,clean,manual,4wd,offroad,green,tx,9.0
+tyler / east TX,19983,jeep,excellent,6 cylinders,gas,145596.0,clean,automatic,4wd,offroad,black,tx,11.0
+tyler / east TX,26000,jeep,excellent,6 cylinders,gas,103347.0,clean,automatic,4wd,offroad,,tx,8.0
+waco,30849,jeep,excellent,6 cylinders,gas,99993.0,clean,automatic,4wd,offroad,grey,tx,6.0
+vermont,18995,jeep,excellent,6 cylinders,gas,123240.0,clean,manual,4wd,offroad,purple,vt,10.0
+lynchburg,10500,toyota,like new,6 cylinders,gas,230000.0,clean,automatic,4wd,offroad,blue,va,16.0
+lynchburg,11200,jeep,good,,gas,193800.0,clean,automatic,4wd,offroad,black,va,15.0
+norfolk / hampton roads,2500,land rover,fair,8 cylinders,gas,224872.0,clean,manual,4wd,offroad,green,va,21.0
+norfolk / hampton roads,3000,jeep,good,6 cylinders,gas,242000.0,clean,automatic,4wd,offroad,custom,va,18.0
+norfolk / hampton roads,26850,jeep,like new,6 cylinders,gas,81120.0,clean,automatic,4wd,offroad,red,va,7.0
+norfolk / hampton roads,29999,jeep,excellent,4 cylinders,gas,31000.0,lien,automatic,4wd,offroad,orange,va,4.0
+richmond,34500,jeep,like new,6 cylinders,gas,35501.0,clean,automatic,4wd,offroad,white,va,5.0
+richmond,14500,toyota,excellent,6 cylinders,gas,222000.0,clean,automatic,4wd,offroad,silver,va,12.0
+roanoke,13000,jeep,good,6 cylinders,gas,117000.0,clean,manual,4wd,offroad,silver,va,17.0
+bellingham,14000,jeep,good,6 cylinders,gas,101296.0,clean,manual,4wd,offroad,blue,wa,17.0
+bellingham,9000,jeep,good,6 cylinders,gas,204000.0,clean,manual,4wd,offroad,white,wa,22.0
+seattle-tacoma,9000,nissan,excellent,6 cylinders,gas,103000.0,clean,automatic,4wd,offroad,,wa,19.0
+seattle-tacoma,0,toyota,,6 cylinders,gas,36371.0,clean,automatic,4wd,offroad,,wa,7.0
+seattle-tacoma,6000,jeep,good,4 cylinders,gas,185000.0,clean,manual,4wd,offroad,black,wa,21.0
+seattle-tacoma,38000,jeep,excellent,6 cylinders,gas,56942.0,clean,automatic,4wd,offroad,black,wa,15.0
+seattle-tacoma,2100,land rover,good,8 cylinders,gas,240000.0,clean,automatic,4wd,offroad,blue,wa,18.0
+skagit / island / SJI,22500,toyota,excellent,6 cylinders,gas,173000.0,clean,automatic,4wd,offroad,white,wa,11.0
+appleton-oshkosh-FDL,36000,jeep,excellent,6 cylinders,gas,50600.0,clean,automatic,4wd,offroad,grey,wi,5.0
+eau claire,10500,jeep,good,6 cylinders,gas,227541.0,clean,automatic,4wd,offroad,brown,wi,23.0
+eau claire,12500,jeep,good,6 cylinders,gas,134000.0,clean,automatic,4wd,offroad,grey,wi,8.0
+eau claire,12500,jeep,good,6 cylinders,gas,134000.0,clean,automatic,4wd,offroad,grey,wi,8.0
+madison,17200,jeep,excellent,6 cylinders,gas,79600.0,clean,manual,4wd,offroad,blue,wi,12.0
+madison,13600,lexus,excellent,8 cylinders,gas,193000.0,clean,automatic,4wd,offroad,white,wi,17.0
+wyoming,8700,jeep,good,6 cylinders,gas,105000.0,clean,manual,4wd,offroad,black,wy,21.0
+wyoming,24995,jeep,like new,6 cylinders,gas,112480.0,clean,automatic,4wd,offroad,black,wy,8.0

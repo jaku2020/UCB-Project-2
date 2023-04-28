@@ -1,0 +1,418 @@
+region,price,manufacturer,condition,cylinders,fuel,odometer,title_status,transmission,drive,type,paint_color,state,age
+auburn,6800,NA manufacturer,excellent,6 cylinders,diesel,180000.0,clean,automatic,rwd,bus,yellow,al,17.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,6800,NA manufacturer,excellent,6 cylinders,diesel,180000.0,clean,automatic,rwd,bus,yellow,al,17.0
+birmingham,5500,NA manufacturer,excellent,6 cylinders,diesel,220000.0,clean,automatic,rwd,bus,yellow,al,23.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,al,6.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,500,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,1000,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,1000,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,1000,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,1000,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,1000,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+birmingham,1000,NA manufacturer,fair,other,other,1400.0,clean,other,,bus,green,al,1.0
+montgomery,5500,NA manufacturer,excellent,6 cylinders,diesel,220000.0,clean,automatic,rwd,bus,yellow,al,23.0
+montgomery,6800,NA manufacturer,excellent,6 cylinders,diesel,180000.0,clean,automatic,rwd,bus,yellow,al,17.0
+montgomery,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,al,11.0
+mohave county,26000,ford,excellent,10 cylinders,other,150371.0,clean,automatic,rwd,bus,white,az,7.0
+mohave county,26000,ford,excellent,10 cylinders,other,150371.0,clean,automatic,rwd,bus,white,az,7.0
+mohave county,26000,ford,excellent,10 cylinders,other,150371.0,clean,automatic,rwd,bus,white,az,7.0
+phoenix,1800,gmc,fair,8 cylinders,gas,200000.0,clean,automatic,4wd,bus,grey,az,18.0
+fort smith,23000,ford,,,gas,62000.0,clean,automatic,,bus,grey,ar,20.0
+little rock,6950,ford,good,10 cylinders,gas,115000.0,clean,automatic,rwd,bus,white,ar,15.0
+little rock,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,ar,11.0
+bakersfield,14995,chevrolet,good,8 cylinders,gas,90921.0,clean,automatic,rwd,bus,white,ca,13.0
+bakersfield,16995,chevrolet,good,8 cylinders,gas,90921.0,clean,automatic,rwd,bus,white,ca,13.0
+gold country,7900,NA manufacturer,good,6 cylinders,diesel,73240.0,clean,automatic,rwd,bus,yellow,ca,17.0
+gold country,8900,chevrolet,excellent,8 cylinders,gas,144475.0,clean,automatic,rwd,bus,white,ca,13.0
+gold country,10900,ford,like new,10 cylinders,other,168672.0,clean,automatic,rwd,bus,white,ca,7.0
+inland empire,15000,ford,excellent,10 cylinders,gas,195000.0,clean,automatic,rwd,bus,white,ca,9.0
+inland empire,10000,ford,good,,gas,112796.0,clean,automatic,,bus,white,ca,17.0
+los angeles,79000,NA manufacturer,excellent,6 cylinders,diesel,20000.0,clean,automatic,fwd,bus,green,ca,14.0
+modesto,18495,bmw,excellent,6 cylinders,gas,92189.0,clean,automatic,rwd,bus,blue,ca,10.0
+modesto,18495,bmw,excellent,6 cylinders,gas,92189.0,clean,automatic,rwd,bus,blue,ca,10.0
+orange county,23500,ford,like new,8 cylinders,other,36000.0,clean,automatic,rwd,bus,black,ca,11.0
+orange county,19500,ford,excellent,8 cylinders,diesel,149000.0,clean,automatic,fwd,bus,white,ca,22.0
+orange county,25000,NA manufacturer,like new,8 cylinders,diesel,101476.0,clean,automatic,rwd,bus,white,ca,11.0
+orange county,45000,NA manufacturer,excellent,6 cylinders,diesel,180000.0,clean,automatic,,bus,orange,ca,13.0
+redding,7500,NA manufacturer,good,8 cylinders,diesel,153000.0,clean,automatic,rwd,bus,yellow,ca,16.0
+sacramento,22000,chevrolet,good,8 cylinders,gas,129000.0,clean,automatic,,bus,black,ca,20.0
+santa barbara,12995,NA manufacturer,good,other,electric,10697.0,clean,automatic,rwd,bus,,ca,7.0
+SF bay area,8000,NA manufacturer,good,8 cylinders,diesel,670000.0,clean,automatic,rwd,bus,white,ca,22.0
+SF bay area,14999,ford,excellent,8 cylinders,gas,220000.0,clean,automatic,rwd,bus,white,ca,8.0
+SF bay area,4200,ford,good,8 cylinders,gas,333333.0,clean,automatic,rwd,bus,white,ca,13.0
+SF bay area,33000,chevrolet,excellent,,gas,16185.0,clean,automatic,,bus,white,ca,15.0
+stockton,10900,ford,excellent,10 cylinders,other,168673.0,clean,automatic,rwd,bus,white,ca,7.0
+ventura county,14995,chevrolet,good,8 cylinders,gas,90921.0,clean,automatic,rwd,bus,white,ca,13.0
+ventura county,16995,chevrolet,good,8 cylinders,gas,90921.0,clean,automatic,rwd,bus,white,ca,13.0
+boulder,4500,NA manufacturer,like new,,diesel,40000.0,clean,automatic,,bus,white,co,17.0
+boulder,7950,ford,excellent,4 cylinders,gas,183000.0,clean,automatic,rwd,bus,white,co,8.0
+colorado springs,6200,NA manufacturer,excellent,,diesel,200.0,clean,automatic,rwd,bus,,co,17.0
+colorado springs,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,co,11.0
+denver,12900,ford,,,gas,187094.0,clean,other,,bus,white,co,8.0
+denver,12000,ford,good,10 cylinders,gas,135000.0,clean,automatic,rwd,bus,green,co,11.0
+denver,26987,chevrolet,excellent,8 cylinders,diesel,64985.0,clean,automatic,rwd,bus,white,co,11.0
+denver,19900,volkswagen,good,6 cylinders,gas,202000.0,clean,automatic,fwd,bus,silver,co,19.0
+high rockies,10255,ford,good,8 cylinders,diesel,58579.0,clean,automatic,rwd,bus,white,co,24.0
+western slope,28000,volkswagen,excellent,6 cylinders,gas,179000.0,clean,automatic,fwd,bus,white,co,22.0
+western slope,10255,ford,good,8 cylinders,diesel,58579.0,clean,automatic,rwd,bus,white,co,10.0
+hartford,39990,ford,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,ct,6.0
+hartford,13800,ford,excellent,8 cylinders,gas,112000.0,clean,automatic,rwd,bus,white,ct,10.0
+"washington, DC",18995,dodge,good,6 cylinders,diesel,112778.0,clean,automatic,rwd,bus,white,dc,14.0
+"washington, DC",4500,chevrolet,good,8 cylinders,gas,87500.0,clean,automatic,rwd,bus,white,dc,23.0
+"washington, DC",18995,dodge,good,6 cylinders,diesel,112778.0,clean,automatic,rwd,bus,white,dc,14.0
+delaware,42990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,de,6.0
+daytona beach,14999,NA manufacturer,good,8 cylinders,diesel,153181.0,clean,automatic,rwd,bus,white,fl,8.0
+daytona beach,15999,NA manufacturer,good,6 cylinders,diesel,263870.0,clean,automatic,rwd,bus,white,fl,9.0
+daytona beach,15999,NA manufacturer,good,6 cylinders,diesel,257415.0,clean,automatic,rwd,bus,white,fl,9.0
+daytona beach,9500,NA manufacturer,good,8 cylinders,gas,184000.0,clean,automatic,,bus,white,fl,21.0
+daytona beach,16499,NA manufacturer,good,8 cylinders,diesel,117486.0,clean,automatic,rwd,bus,white,fl,8.0
+daytona beach,14999,NA manufacturer,good,8 cylinders,diesel,149543.0,clean,automatic,rwd,bus,white,fl,8.0
+daytona beach,13999,NA manufacturer,excellent,8 cylinders,diesel,235815.0,clean,automatic,rwd,bus,white,fl,8.0
+daytona beach,15499,NA manufacturer,excellent,8 cylinders,diesel,140015.0,clean,automatic,rwd,bus,white,fl,8.0
+daytona beach,10999,ford,good,8 cylinders,gas,140679.0,clean,automatic,rwd,bus,white,fl,9.0
+ft myers / SW florida,3500,NA manufacturer,fair,,diesel,165000.0,clean,automatic,,bus,yellow,fl,19.0
+ft myers / SW florida,14900,ford,excellent,10 cylinders,gas,155000.0,clean,automatic,rwd,bus,white,fl,5.0
+ft myers / SW florida,15900,ford,excellent,10 cylinders,gas,155000.0,clean,automatic,rwd,bus,white,fl,5.0
+ft myers / SW florida,23977,ford,good,10 cylinders,gas,37039.0,clean,automatic,rwd,bus,white,fl,10.0
+gainesville,24500,ford,,6 cylinders,gas,79467.0,clean,automatic,,bus,white,fl,5.0
+jacksonville,6800,NA manufacturer,excellent,6 cylinders,diesel,180000.0,clean,automatic,rwd,bus,yellow,fl,17.0
+jacksonville,5500,NA manufacturer,excellent,6 cylinders,diesel,220000.0,clean,automatic,rwd,bus,yellow,fl,23.0
+ocala,24500,ford,,6 cylinders,gas,79467.0,clean,automatic,,bus,white,fl,5.0
+ocala,24500,ford,,6 cylinders,gas,79467.0,clean,automatic,,bus,white,fl,5.0
+orlando,11500,ford,good,6 cylinders,diesel,182300.0,clean,automatic,rwd,bus,white,fl,17.0
+orlando,24500,ford,,6 cylinders,gas,79467.0,clean,automatic,,bus,white,fl,5.0
+orlando,5950,ford,excellent,10 cylinders,gas,358135.0,clean,automatic,rwd,bus,white,fl,17.0
+orlando,24500,ford,,6 cylinders,gas,79467.0,clean,automatic,,bus,white,fl,5.0
+orlando,12000,ford,excellent,8 cylinders,gas,116780.0,clean,automatic,rwd,bus,white,fl,9.0
+orlando,11500,ford,good,6 cylinders,diesel,182300.0,clean,automatic,rwd,bus,white,fl,17.0
+orlando,24500,ford,,6 cylinders,gas,79467.0,clean,automatic,,bus,white,fl,5.0
+orlando,24500,ford,,6 cylinders,gas,79467.0,clean,automatic,,bus,white,fl,5.0
+orlando,27500,ford,,8 cylinders,gas,34323.0,rebuilt,automatic,,bus,,fl,6.0
+south florida,13500,ford,excellent,10 cylinders,gas,249000.0,clean,automatic,rwd,bus,white,fl,13.0
+south florida,10750,ford,like new,8 cylinders,gas,219.0,clean,automatic,,bus,white,fl,9.0
+st augustine,4500,gmc,good,8 cylinders,gas,240000.0,clean,automatic,rwd,bus,,fl,20.0
+tallahassee,5500,NA manufacturer,excellent,6 cylinders,diesel,220000.0,clean,automatic,rwd,bus,yellow,fl,23.0
+tallahassee,6800,NA manufacturer,excellent,6 cylinders,diesel,180000.0,clean,automatic,rwd,bus,yellow,fl,17.0
+tampa bay area,4200,kia,like new,6 cylinders,gas,159000.0,clean,automatic,fwd,bus,blue,fl,14.0
+athens,0,chevrolet,good,8 cylinders,gas,89358.0,clean,automatic,rwd,bus,white,ga,12.0
+atlanta,14995,chevrolet,like new,8 cylinders,gas,42000.0,clean,automatic,4wd,bus,white,ga,21.0
+atlanta,21900,chevrolet,excellent,,gas,110938.0,clean,automatic,,bus,white,ga,7.0
+columbus,6800,NA manufacturer,excellent,6 cylinders,diesel,180000.0,clean,automatic,rwd,bus,yellow,ga,17.0
+savannah / hinesville,38000,gmc,good,,gas,43000.0,clean,automatic,,bus,,ga,19.0
+savannah / hinesville,16500,ford,excellent,8 cylinders,gas,61000.0,clean,automatic,rwd,bus,white,ga,9.0
+hawaii,408,mercedes-benz,like new,6 cylinders,diesel,1200.0,clean,automatic,rwd,bus,grey,hi,3.0
+hawaii,17995,ford,excellent,8 cylinders,diesel,96398.0,clean,automatic,rwd,bus,white,hi,19.0
+chicago,12900,ford,,,gas,187094.0,clean,other,,bus,white,il,8.0
+chicago,14999,chevrolet,,8 cylinders,gas,67285.0,clean,automatic,,bus,grey,il,15.0
+chicago,4800,NA manufacturer,good,6 cylinders,diesel,166000.0,clean,automatic,rwd,bus,yellow,il,15.0
+chicago,4800,NA manufacturer,good,6 cylinders,diesel,146000.0,clean,automatic,,bus,yellow,il,15.0
+chicago,20000,NA manufacturer,excellent,4 cylinders,gas,58571.0,clean,automatic,fwd,bus,white,il,8.0
+chicago,18000,ford,excellent,4 cylinders,gas,116200.0,clean,automatic,fwd,bus,white,il,9.0
+chicago,9990,chevrolet,good,8 cylinders,gas,102000.0,clean,automatic,rwd,bus,silver,il,15.0
+chicago,16999,chevrolet,,8 cylinders,diesel,167740.0,clean,other,,bus,blue,il,12.0
+chicago,16999,chevrolet,,8 cylinders,other,53540.0,clean,other,,bus,white,il,11.0
+chicago,8995,ford,good,10 cylinders,gas,157000.0,clean,automatic,rwd,bus,white,il,11.0
+chicago,10900,ford,,,gas,213795.0,clean,automatic,,bus,white,il,8.0
+chicago,12900,ford,,8 cylinders,gas,189727.0,clean,automatic,rwd,bus,white,il,8.0
+chicago,14900,ford,,,gas,164710.0,clean,automatic,,bus,white,il,8.0
+la salle co,2000,ford,fair,8 cylinders,gas,180000.0,clean,automatic,rwd,bus,white,il,24.0
+peoria,4900,NA manufacturer,,,diesel,,clean,other,,bus,yellow,il,11.0
+rockford,21900,chevrolet,excellent,8 cylinders,gas,110938.0,clean,automatic,rwd,bus,white,il,7.0
+rockford,14900,ford,,,gas,174105.0,clean,other,,bus,grey,il,10.0
+rockford,13900,ford,,,diesel,133427.0,clean,other,,bus,white,il,12.0
+rockford,8995,ford,,,diesel,170459.0,clean,other,,bus,white,il,13.0
+rockford,7900,ford,,,diesel,166404.0,clean,other,,bus,yellow,il,12.0
+"st louis, MO",22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,il,11.0
+fort wayne,15900,ford,,,gas,149608.0,clean,other,,bus,white,in,8.0
+indianapolis,8995,ford,good,10 cylinders,gas,157000.0,clean,automatic,rwd,bus,white,in,11.0
+indianapolis,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,in,11.0
+indianapolis,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,in,6.0
+indianapolis,500,NA manufacturer,,,gas,2021.0,clean,other,,bus,,in,0.0
+indianapolis,7995,ford,excellent,8 cylinders,gas,135000.0,clean,automatic,rwd,bus,white,in,19.0
+indianapolis,14900,ford,excellent,10 cylinders,gas,174105.0,clean,automatic,rwd,bus,grey,in,10.0
+indianapolis,500,NA manufacturer,,,gas,2021.0,clean,other,,bus,,in,0.0
+south bend / michiana,5995,ford,good,8 cylinders,gas,130829.0,clean,automatic,rwd,bus,white,in,22.0
+south bend / michiana,5995,ford,good,8 cylinders,gas,130879.0,clean,automatic,rwd,bus,white,in,22.0
+ames,2400,NA manufacturer,good,8 cylinders,diesel,158288.0,clean,automatic,rwd,bus,white,ia,19.0
+cedar rapids,9900,ford,,,gas,218279.0,clean,other,,bus,white,ia,8.0
+des moines,10900,ford,,,gas,213795.0,clean,automatic,,bus,white,ia,8.0
+des moines,4900,NA manufacturer,,,diesel,,clean,automatic,,bus,yellow,ia,11.0
+des moines,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,ia,11.0
+des moines,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,ia,6.0
+des moines,13900,ford,,,diesel,133427.0,clean,other,,bus,white,ia,12.0
+iowa city,4900,NA manufacturer,,,diesel,,clean,other,,bus,yellow,ia,11.0
+iowa city,4900,NA manufacturer,,,diesel,,clean,other,,bus,yellow,ia,11.0
+omaha / council bluffs,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,ia,11.0
+omaha / council bluffs,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,ia,6.0
+"kansas city, MO",14900,ford,,,gas,164710.0,clean,automatic,,bus,white,ks,8.0
+"kansas city, MO",12000,ford,good,,gas,141000.0,clean,automatic,4wd,bus,white,ks,14.0
+"kansas city, MO",5000,NA manufacturer,good,6 cylinders,diesel,,clean,automatic,rwd,bus,yellow,ks,21.0
+"kansas city, MO",22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,ks,11.0
+manhattan,14995,ford,good,10 cylinders,gas,174431.0,clean,automatic,rwd,bus,white,ks,14.0
+wichita,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,ks,11.0
+louisville,14750,mercedes-benz,excellent,6 cylinders,gas,59000.0,clean,automatic,rwd,bus,silver,ky,17.0
+louisville,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,ky,6.0
+monroe,4500,NA manufacturer,good,6 cylinders,diesel,122603.0,clean,automatic,rwd,bus,yellow,la,23.0
+new orleans,42990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,la,6.0
+maine,5500,chevrolet,good,6 cylinders,gas,35000.0,clean,automatic,,bus,white,me,22.0
+maine,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,me,6.0
+baltimore,42990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,md,6.0
+western maryland,2000,NA manufacturer,,,gas,,clean,automatic,,bus,white,md,19.0
+boston,13995,gmc,excellent,8 cylinders,gas,57562.0,clean,automatic,rwd,bus,white,ma,18.0
+boston,10995,ford,good,8 cylinders,gas,154000.0,clean,automatic,rwd,bus,white,ma,13.0
+cape cod / islands,25500,ford,good,8 cylinders,gas,131500.0,clean,automatic,fwd,bus,black,ma,17.0
+south coast,12995,NA manufacturer,good,8 cylinders,diesel,230000.0,clean,automatic,rwd,bus,white,ma,14.0
+western massachusetts,9900,ford,,8 cylinders,gas,80000.0,clean,automatic,rwd,bus,white,ma,14.0
+western massachusetts,9900,ford,,10 cylinders,gas,130000.0,clean,automatic,rwd,bus,white,ma,9.0
+western massachusetts,10900,ford,,8 cylinders,gas,80000.0,clean,automatic,rwd,bus,white,ma,14.0
+western massachusetts,10900,ford,,8 cylinders,gas,80000.0,clean,automatic,rwd,bus,white,ma,14.0
+western massachusetts,10900,ford,,10 cylinders,gas,130000.0,clean,automatic,rwd,bus,white,ma,9.0
+western massachusetts,12900,ford,,8 cylinders,gas,50000.0,clean,automatic,rwd,bus,white,ma,14.0
+western massachusetts,10900,ford,,8 cylinders,gas,80000.0,clean,automatic,rwd,bus,white,ma,14.0
+battle creek,36997,NA manufacturer,excellent,6 cylinders,diesel,62243.0,rebuilt,automatic,rwd,bus,yellow,mi,6.0
+battle creek,11997,ford,excellent,10 cylinders,gas,160349.0,clean,automatic,rwd,bus,white,mi,11.0
+battle creek,11997,ford,excellent,10 cylinders,gas,160349.0,clean,automatic,rwd,bus,white,mi,11.0
+battle creek,11997,ford,excellent,10 cylinders,gas,160349.0,clean,automatic,rwd,bus,white,mi,11.0
+detroit metro,7250,ford,excellent,10 cylinders,gas,184101.0,clean,automatic,rwd,bus,white,mi,11.0
+detroit metro,6900,chevrolet,excellent,8 cylinders,gas,171000.0,clean,automatic,,bus,white,mi,10.0
+grand rapids,36997,NA manufacturer,excellent,6 cylinders,diesel,62243.0,rebuilt,automatic,rwd,bus,yellow,mi,6.0
+grand rapids,11997,ford,excellent,10 cylinders,gas,160349.0,clean,automatic,rwd,bus,white,mi,11.0
+grand rapids,14900,ford,,,gas,164710.0,clean,automatic,,bus,white,mi,8.0
+grand rapids,11997,ford,excellent,10 cylinders,gas,160349.0,clean,automatic,rwd,bus,white,mi,11.0
+grand rapids,5400,chevrolet,,8 cylinders,gas,235550.0,clean,automatic,rwd,bus,white,mi,9.0
+grand rapids,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,mi,6.0
+grand rapids,5400,chevrolet,,8 cylinders,gas,235550.0,clean,automatic,rwd,bus,white,mi,9.0
+lansing,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,mi,11.0
+upper peninsula,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,mi,3.0
+minneapolis / st paul,47000,NA manufacturer,like new,8 cylinders,diesel,115.0,clean,automatic,fwd,bus,red,mn,17.0
+minneapolis / st paul,9750,ford,good,10 cylinders,gas,259700.0,clean,automatic,fwd,bus,white,mn,11.0
+st cloud,3999,ford,excellent,4 cylinders,gas,270000.0,clean,automatic,fwd,bus,white,mn,12.0
+hattiesburg,13900,ford,,,gas,171409.0,clean,other,,bus,white,ms,8.0
+springfield,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,mo,11.0
+st louis,42990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,mo,6.0
+eastern montana,7500,ford,good,8 cylinders,gas,200400.0,clean,automatic,rwd,bus,white,mt,15.0
+charlotte,7500,NA manufacturer,,6 cylinders,diesel,176593.0,clean,automatic,rwd,bus,yellow,nc,14.0
+charlotte,16000,ford,good,10 cylinders,gas,167826.0,clean,automatic,rwd,bus,white,nc,9.0
+raleigh / durham / CH,0,chevrolet,good,8 cylinders,gas,89358.0,clean,automatic,rwd,bus,white,nc,12.0
+raleigh / durham / CH,11995,NA manufacturer,excellent,6 cylinders,diesel,143869.0,clean,automatic,rwd,bus,,nc,13.0
+raleigh / durham / CH,22999,NA manufacturer,excellent,6 cylinders,diesel,37592.0,clean,automatic,,bus,white,nc,12.0
+raleigh / durham / CH,19500,chevrolet,excellent,8 cylinders,diesel,77000.0,clean,automatic,rwd,bus,white,nc,17.0
+raleigh / durham / CH,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,nc,6.0
+raleigh / durham / CH,19500,chevrolet,excellent,8 cylinders,diesel,77000.0,clean,automatic,rwd,bus,white,nc,17.0
+lincoln,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,ne,11.0
+las vegas,13700,NA manufacturer,excellent,,diesel,180000.0,clean,automatic,,bus,white,nv,9.0
+las vegas,26000,ford,excellent,10 cylinders,other,150371.0,clean,automatic,rwd,bus,white,nv,7.0
+central NJ,16000,NA manufacturer,good,,gas,140000.0,clean,automatic,,bus,yellow,nj,11.0
+central NJ,7500,NA manufacturer,good,,diesel,86032.0,clean,automatic,,bus,yellow,nj,16.0
+central NJ,26900,ford,excellent,8 cylinders,gas,72284.0,clean,automatic,rwd,bus,white,nj,8.0
+central NJ,25700,ford,excellent,8 cylinders,gas,72284.0,clean,automatic,rwd,bus,white,nj,8.0
+central NJ,11800,chevrolet,excellent,8 cylinders,gas,52000.0,clean,automatic,rwd,bus,white,nj,24.0
+central NJ,26895,ford,excellent,8 cylinders,gas,72284.0,clean,automatic,rwd,bus,white,nj,8.0
+central NJ,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,nj,6.0
+central NJ,17500,ford,good,10 cylinders,gas,141000.0,clean,automatic,rwd,bus,white,nj,21.0
+central NJ,0,NA manufacturer,fair,6 cylinders,diesel,66673.0,clean,automatic,,bus,white,nj,4.0
+central NJ,7500,NA manufacturer,good,,diesel,86032.0,clean,automatic,,bus,yellow,nj,16.0
+central NJ,27895,ford,excellent,8 cylinders,gas,72284.0,clean,automatic,rwd,bus,white,nj,8.0
+central NJ,30500,nissan,like new,6 cylinders,gas,12500.0,clean,automatic,rwd,bus,grey,nj,4.0
+jersey shore,19500,NA manufacturer,excellent,6 cylinders,diesel,46274.0,clean,automatic,,bus,green,nj,23.0
+north jersey,3500,NA manufacturer,excellent,8 cylinders,diesel,200265.0,clean,automatic,fwd,bus,yellow,nj,21.0
+north jersey,18999,ford,good,10 cylinders,gas,150512.0,clean,automatic,rwd,bus,white,nj,6.0
+south jersey,25900,ford,excellent,10 cylinders,gas,66000.0,clean,automatic,rwd,bus,white,nj,9.0
+south jersey,5000,chevrolet,good,8 cylinders,gas,86772.0,clean,automatic,,bus,black,nj,16.0
+south jersey,17500,NA manufacturer,fair,6 cylinders,diesel,197739.0,clean,automatic,,bus,white,nj,16.0
+albuquerque,27500,ford,good,8 cylinders,diesel,105177.0,clean,automatic,rwd,bus,white,nm,13.0
+albuquerque,4900,NA manufacturer,,,diesel,,clean,other,,bus,yellow,nm,11.0
+albuquerque,6000,ford,good,8 cylinders,diesel,253668.0,clean,automatic,rwd,bus,white,nm,14.0
+albany,7500,chevrolet,good,8 cylinders,diesel,277900.0,clean,automatic,rwd,bus,white,ny,12.0
+albany,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,ny,6.0
+buffalo,4500,ford,good,8 cylinders,diesel,228136.0,clean,automatic,rwd,bus,black,ny,16.0
+buffalo,38000,ford,good,10 cylinders,gas,83000.0,clean,automatic,rwd,bus,black,ny,8.0
+long island,25500,chevrolet,good,8 cylinders,gas,25464.0,clean,automatic,rwd,bus,white,ny,9.0
+long island,8500,NA manufacturer,good,6 cylinders,diesel,191200.0,clean,automatic,rwd,bus,white,ny,11.0
+long island,6500,NA manufacturer,excellent,8 cylinders,diesel,99625.0,clean,automatic,rwd,bus,yellow,ny,12.0
+long island,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,ny,6.0
+long island,0,ford,excellent,6 cylinders,gas,55017.0,clean,automatic,,bus,white,ny,6.0
+long island,14999,ford,,6 cylinders,gas,63000.0,clean,automatic,,bus,black,ny,7.0
+new york city,15000,gmc,excellent,8 cylinders,gas,5631.0,clean,automatic,rwd,bus,yellow,ny,19.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+new york city,175,honda,new,4 cylinders,gas,500.0,clean,manual,fwd,bus,black,ny,3.0
+plattsburgh-adirondacks,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,ny,6.0
+rochester,3600,ford,fair,10 cylinders,gas,230781.0,clean,automatic,rwd,bus,white,ny,18.0
+new hampshire,6500,NA manufacturer,excellent,8 cylinders,diesel,108000.0,clean,automatic,rwd,bus,yellow,nh,19.0
+new hampshire,6500,NA manufacturer,excellent,6 cylinders,diesel,388746.0,clean,automatic,rwd,bus,white,nh,9.0
+grand forks,11990,chevrolet,good,8 cylinders,gas,112016.0,clean,automatic,rwd,bus,white,nd,17.0
+athens,12900,ford,,,gas,187094.0,clean,other,,bus,white,oh,8.0
+cincinnati,3495,dodge,excellent,6 cylinders,gas,226106.0,clean,automatic,fwd,bus,white,oh,12.0
+cincinnati,12900,ford,,8 cylinders,gas,189727.0,clean,automatic,rwd,bus,white,oh,8.0
+cincinnati,2675,cadillac,excellent,8 cylinders,gas,108000.0,clean,automatic,fwd,bus,black,oh,19.0
+cincinnati,14900,ford,,,gas,174105.0,clean,other,,bus,grey,oh,10.0
+cleveland,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,oh,11.0
+cleveland,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,oh,6.0
+columbus,7500,ford,excellent,8 cylinders,gas,180000.0,clean,automatic,4wd,bus,brown,oh,10.0
+columbus,21900,chevrolet,excellent,,gas,110938.0,clean,automatic,,bus,white,oh,7.0
+columbus,8000,ford,good,,gas,220000.0,clean,automatic,,bus,white,oh,18.0
+dayton / springfield,3800,NA manufacturer,good,,diesel,160000.0,clean,automatic,,bus,yellow,oh,14.0
+dayton / springfield,15000,NA manufacturer,good,,diesel,119000.0,clean,automatic,,bus,white,oh,11.0
+northern panhandle,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,oh,6.0
+tuscarawas co,12000,ford,good,8 cylinders,gas,147720.0,clean,automatic,rwd,bus,white,oh,9.0
+zanesville / cambridge,7500,ford,good,,gas,177886.0,clean,automatic,,bus,red,oh,11.0
+oklahoma city,35000,chevrolet,like new,6 cylinders,gas,47000.0,clean,automatic,rwd,bus,white,ok,5.0
+oklahoma city,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,ok,11.0
+oklahoma city,42990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,ok,6.0
+oklahoma city,34950,ford,,8 cylinders,gas,40541.0,clean,other,,bus,white,ok,11.0
+tulsa,12900,ford,,8 cylinders,gas,189727.0,clean,automatic,rwd,bus,white,ok,8.0
+tulsa,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,ok,11.0
+corvallis/albany,12400,ford,good,10 cylinders,other,174085.0,clean,automatic,,bus,white,or,9.0
+eugene,10000,ford,excellent,8 cylinders,diesel,199000.0,clean,automatic,rwd,bus,black,or,19.0
+medford-ashland,15000,ford,excellent,8 cylinders,gas,154590.0,clean,automatic,,bus,white,or,9.0
+portland,6995,gmc,good,8 cylinders,gas,35150.0,clean,automatic,rwd,bus,white,or,23.0
+salem,8977,ford,excellent,10 cylinders,gas,170543.0,clean,automatic,rwd,bus,white,or,19.0
+salem,9977,ford,excellent,10 cylinders,gas,110815.0,clean,automatic,rwd,bus,white,or,17.0
+salem,1,ford,good,10 cylinders,gas,73242.0,clean,automatic,rwd,bus,white,or,22.0
+harrisburg,15000,chevrolet,excellent,8 cylinders,gas,129000.0,clean,manual,4wd,bus,black,pa,15.0
+harrisburg,6500,ford,good,8 cylinders,gas,44000.0,clean,automatic,rwd,bus,white,pa,19.0
+lehigh valley,7500,NA manufacturer,good,,diesel,86000.0,clean,automatic,,bus,yellow,pa,16.0
+lehigh valley,8000,NA manufacturer,fair,4 cylinders,diesel,530000.0,clean,automatic,rwd,bus,white,pa,19.0
+lehigh valley,7500,NA manufacturer,good,,diesel,86000.0,clean,automatic,,bus,yellow,pa,16.0
+philadelphia,7990,ford,,8 cylinders,gas,196988.0,clean,automatic,,bus,,pa,14.0
+philadelphia,11999,chevrolet,like new,8 cylinders,gas,163498.0,clean,automatic,rwd,bus,white,pa,9.0
+philadelphia,6500,chevrolet,good,12 cylinders,diesel,189200.0,clean,automatic,,bus,,pa,16.0
+philadelphia,22999,NA manufacturer,excellent,6 cylinders,diesel,37592.0,clean,automatic,,bus,white,pa,12.0
+philadelphia,11995,ford,excellent,8 cylinders,gas,112000.0,clean,automatic,rwd,bus,red,pa,11.0
+philadelphia,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,pa,6.0
+philadelphia,15000,chevrolet,excellent,8 cylinders,gas,170000.0,clean,automatic,rwd,bus,white,pa,15.0
+pittsburgh,4000,NA manufacturer,,,diesel,214000.0,clean,automatic,,bus,,pa,20.0
+scranton / wilkes-barre,7500,NA manufacturer,good,4 cylinders,diesel,86032.0,clean,automatic,,bus,yellow,pa,16.0
+scranton / wilkes-barre,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,pa,6.0
+scranton / wilkes-barre,7500,NA manufacturer,good,4 cylinders,diesel,86032.0,clean,automatic,,bus,yellow,pa,16.0
+rhode island,14500,ford,good,8 cylinders,diesel,192000.0,clean,automatic,fwd,bus,custom,ri,24.0
+rhode island,2550,ford,fair,8 cylinders,diesel,204000.0,clean,automatic,rwd,bus,white,ri,22.0
+charleston,20000,mini,excellent,4 cylinders,diesel,56378.0,clean,automatic,,bus,white,sc,10.0
+charleston,20000,mini,good,4 cylinders,diesel,56378.0,clean,automatic,,bus,white,sc,10.0
+sioux falls / SE SD,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,sd,11.0
+chattanooga,5500,NA manufacturer,excellent,6 cylinders,diesel,220000.0,clean,manual,rwd,bus,yellow,tn,17.0
+knoxville,14500,NA manufacturer,like new,6 cylinders,diesel,112000.0,clean,automatic,rwd,bus,yellow,tn,12.0
+knoxville,24950,ford,excellent,10 cylinders,gas,149850.0,clean,automatic,rwd,bus,white,tn,5.0
+memphis,12900,ford,,8 cylinders,gas,189727.0,clean,automatic,rwd,bus,white,tn,8.0
+memphis,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,tn,11.0
+memphis,42990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,tn,6.0
+memphis,6000,chevrolet,good,8 cylinders,gas,91239.0,clean,automatic,rwd,bus,black,tn,24.0
+memphis,6000,chevrolet,good,8 cylinders,gas,91239.0,clean,automatic,rwd,bus,black,tn,24.0
+nashville,24995,chevrolet,excellent,8 cylinders,diesel,64940.0,clean,automatic,rwd,bus,white,tn,15.0
+nashville,8000,NA manufacturer,good,6 cylinders,diesel,147971.0,clean,automatic,rwd,bus,yellow,tn,15.0
+nashville,21900,chevrolet,excellent,8 cylinders,gas,110938.0,clean,automatic,rwd,bus,white,tn,7.0
+nashville,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,tn,11.0
+amarillo,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,tx,11.0
+austin,21900,chevrolet,excellent,,gas,110938.0,clean,automatic,,bus,white,tx,7.0
+austin,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,tx,11.0
+corpus christi,4900,NA manufacturer,,,diesel,,clean,other,,bus,yellow,tx,11.0
+del rio / eagle pass,3500,NA manufacturer,fair,8 cylinders,diesel,114500.0,clean,automatic,rwd,bus,yellow,tx,16.0
+el paso,14995,ford,excellent,10 cylinders,other,173960.0,clean,automatic,rwd,bus,white,tx,7.0
+el paso,16500,ford,good,,gas,265378.0,clean,automatic,rwd,bus,white,tx,14.0
+galveston,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,tx,11.0
+houston,5300,ford,good,6 cylinders,gas,222709.0,clean,automatic,rwd,bus,white,tx,16.0
+lubbock,18000,ford,fair,8 cylinders,diesel,150000.0,clean,automatic,rwd,bus,black,tx,16.0
+san antonio,8500,NA manufacturer,,,diesel,156000.0,clean,automatic,,bus,,tx,20.0
+san antonio,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,tx,11.0
+victoria,16000,ford,excellent,,gas,70000.0,clean,automatic,,bus,white,tx,15.0
+salt lake city,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,ut,6.0
+vermont,22900,ford,excellent,10 cylinders,gas,131600.0,clean,automatic,rwd,bus,black,vt,13.0
+vermont,42990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,vt,6.0
+charlottesville,8000,NA manufacturer,,6 cylinders,diesel,124603.0,clean,automatic,rwd,bus,yellow,va,14.0
+charlottesville,7500,NA manufacturer,,6 cylinders,diesel,175582.0,clean,automatic,rwd,bus,yellow,va,14.0
+charlottesville,7500,NA manufacturer,,6 cylinders,diesel,999999.0,clean,automatic,rwd,bus,yellow,va,13.0
+charlottesville,7500,NA manufacturer,,6 cylinders,diesel,174011.0,clean,automatic,rwd,bus,yellow,va,15.0
+charlottesville,7500,NA manufacturer,,6 cylinders,diesel,95721.0,clean,automatic,rwd,bus,yellow,va,16.0
+charlottesville,6000,isuzu,,8 cylinders,diesel,141772.0,clean,automatic,rwd,bus,yellow,va,19.0
+charlottesville,5000,NA manufacturer,,6 cylinders,diesel,145229.0,clean,automatic,rwd,bus,yellow,va,21.0
+charlottesville,5000,NA manufacturer,,6 cylinders,diesel,123017.0,clean,automatic,rwd,bus,yellow,va,21.0
+charlottesville,6000,isuzu,,8 cylinders,diesel,117839.0,clean,automatic,rwd,bus,yellow,va,18.0
+charlottesville,6000,isuzu,,8 cylinders,diesel,162278.0,clean,automatic,rwd,bus,yellow,va,18.0
+charlottesville,7500,NA manufacturer,,6 cylinders,diesel,170407.0,clean,automatic,rwd,bus,yellow,va,18.0
+charlottesville,7500,NA manufacturer,,6 cylinders,diesel,166602.0,clean,automatic,rwd,bus,yellow,va,17.0
+charlottesville,38000,gmc,good,,gas,43000.0,clean,automatic,,bus,,va,19.0
+charlottesville,8000,ford,good,8 cylinders,gas,183000.0,clean,automatic,fwd,bus,white,va,11.0
+charlottesville,4000,NA manufacturer,,8 cylinders,diesel,236601.0,clean,automatic,rwd,bus,yellow,va,17.0
+charlottesville,8000,NA manufacturer,,6 cylinders,diesel,174328.0,clean,automatic,rwd,bus,yellow,va,16.0
+charlottesville,4000,NA manufacturer,,6 cylinders,diesel,151252.0,clean,manual,rwd,bus,yellow,va,24.0
+charlottesville,2500,NA manufacturer,,8 cylinders,diesel,244660.0,clean,manual,rwd,bus,yellow,va,23.0
+charlottesville,6500,NA manufacturer,,6 cylinders,diesel,214985.0,clean,automatic,rwd,bus,yellow,va,15.0
+charlottesville,6500,NA manufacturer,,6 cylinders,diesel,204896.0,clean,automatic,rwd,bus,yellow,va,15.0
+charlottesville,6500,NA manufacturer,,6 cylinders,diesel,184844.0,clean,automatic,rwd,bus,yellow,va,14.0
+charlottesville,2500,NA manufacturer,,8 cylinders,diesel,243682.0,clean,automatic,rwd,bus,yellow,va,21.0
+danville,7500,NA manufacturer,,6 cylinders,diesel,101087.0,clean,automatic,rwd,bus,yellow,va,17.0
+danville,6500,NA manufacturer,,6 cylinders,diesel,198403.0,clean,automatic,rwd,bus,yellow,va,16.0
+fredericksburg,7500,NA manufacturer,,6 cylinders,diesel,143175.0,clean,automatic,rwd,bus,yellow,va,16.0
+norfolk / hampton roads,7500,NA manufacturer,,6 cylinders,diesel,147782.0,clean,automatic,rwd,bus,yellow,va,18.0
+norfolk / hampton roads,5500,ford,good,10 cylinders,gas,144884.0,clean,automatic,,bus,white,va,22.0
+richmond,7500,NA manufacturer,,6 cylinders,diesel,171424.0,clean,automatic,rwd,bus,yellow,va,16.0
+richmond,5000,NA manufacturer,,6 cylinders,diesel,146118.0,clean,automatic,rwd,bus,yellow,va,21.0
+richmond,22999,NA manufacturer,excellent,6 cylinders,diesel,37592.0,clean,automatic,,bus,white,va,12.0
+richmond,14999,isuzu,excellent,6 cylinders,diesel,181000.0,clean,automatic,,bus,grey,va,9.0
+richmond,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,va,6.0
+bellingham,7000,ford,good,,gas,175000.0,clean,automatic,,bus,white,wa,16.0
+seattle-tacoma,11000,gmc,good,,diesel,79785.0,clean,automatic,,bus,silver,wa,14.0
+charleston,22999,NA manufacturer,excellent,6 cylinders,diesel,37592.0,clean,automatic,,bus,white,wv,12.0
+eastern panhandle,8000,NA manufacturer,good,6 cylinders,diesel,140081.0,clean,automatic,rwd,bus,yellow,wv,21.0
+appleton-oshkosh-FDL,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+eau claire,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+green bay,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+green bay,21900,chevrolet,excellent,8 cylinders,gas,110938.0,clean,automatic,rwd,bus,white,wi,7.0
+green bay,5000,NA manufacturer,fair,6 cylinders,diesel,167200.0,clean,automatic,rwd,bus,green,wi,15.0
+janesville,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+janesville,14900,ford,,,gas,174105.0,clean,other,,bus,grey,wi,10.0
+janesville,13900,ford,,,diesel,133427.0,clean,other,,bus,white,wi,12.0
+janesville,4900,NA manufacturer,,,diesel,,clean,other,,bus,yellow,wi,11.0
+kenosha-racine,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+la crosse,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+madison,10900,ford,,,gas,213795.0,clean,automatic,,bus,white,wi,8.0
+madison,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+madison,11500,NA manufacturer,like new,6 cylinders,diesel,153003.0,clean,automatic,4wd,bus,green,wi,9.0
+madison,27862,lincoln,excellent,6 cylinders,gas,115196.0,clean,automatic,4wd,bus,white,wi,8.0
+madison,11500,NA manufacturer,like new,6 cylinders,diesel,153003.0,clean,automatic,4wd,bus,green,wi,9.0
+madison,27862,lincoln,excellent,6 cylinders,gas,115196.0,clean,automatic,4wd,bus,white,wi,8.0
+milwaukee,14999,chevrolet,,8 cylinders,gas,67285.0,clean,automatic,,bus,grey,wi,15.0
+milwaukee,16999,chevrolet,,8 cylinders,diesel,167740.0,clean,other,,bus,blue,wi,12.0
+milwaukee,16999,chevrolet,,8 cylinders,other,53540.0,clean,other,,bus,white,wi,11.0
+milwaukee,8995,ford,good,10 cylinders,gas,157000.0,clean,automatic,rwd,bus,white,wi,11.0
+milwaukee,21900,chevrolet,excellent,,gas,110938.0,clean,automatic,,bus,white,wi,7.0
+milwaukee,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+milwaukee,4900,NA manufacturer,,,diesel,,clean,other,,bus,yellow,wi,11.0
+milwaukee,22950,ford,excellent,10 cylinders,gas,64351.0,clean,automatic,rwd,bus,,wi,11.0
+milwaukee,9900,ford,,,gas,218279.0,clean,other,,bus,white,wi,8.0
+milwaukee,39990,NA manufacturer,good,6 cylinders,diesel,65368.0,clean,automatic,rwd,bus,white,wi,6.0
+milwaukee,45000,NA manufacturer,good,other,diesel,37000.0,clean,manual,,bus,white,wi,13.0
+milwaukee,15900,ford,,,gas,149608.0,clean,other,,bus,white,wi,8.0
+milwaukee,8995,ford,,,diesel,170459.0,clean,other,,bus,white,wi,13.0
+northern WI,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+sheboygan,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+wausau,0,dodge,new,3 cylinders,gas,100000.0,clean,manual,fwd,bus,black,wi,3.0
+wyoming,12000,NA manufacturer,like new,8 cylinders,diesel,61000.0,clean,automatic,rwd,bus,yellow,wy,19.0

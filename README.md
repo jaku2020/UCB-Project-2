@@ -3,9 +3,12 @@ The Github repository has 3 folders:
 
 1.) Data: containing original dataset vehicles.csv and new datasets I created;
 
+
 2.) Jupyter Notebooks : containing the 1st Data Cleaning Phase (the 1st file to be opened) and subsequent notebooks: each per type of car;
 
+
 3.) Reports: containing a report for UCB  and  report for the "client".
+
 
 For this assignment I assumed that the report I am making is for a national used car dealership (such as Vroom or Carvana) that ships the cars to all states.
 

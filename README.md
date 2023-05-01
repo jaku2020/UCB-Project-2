@@ -13,6 +13,7 @@ The Github repository has 3 folders:
 For this assignment I assumed that the report I am making is for a national used car dealership (such as Vroom or Carvana) that ships the cars to all states.
 
 Since this is a national dealer I concentrated on types of cars. Anyone buying a car has a particular type of car in mind depending on their needs. A large family might buy a minivan, a contractor might go for a pickup, a student might go for a coup, while a dog owner might want to have a wagon. All these cars have different features that are attractive to a buyer. I also separated cars that are 25+ years old because they are considered antiques by definition. Hence I decided to divide the data into groups by type of the car:
+ 
  Sedan
  
  SUV
@@ -53,11 +54,12 @@ Since this is a national dealer I concentrated on types of cars. Anyone buying a
  
  Antiques
 
-Since the dealer has a national database and ships the cars to all locations the state and region column/feature will not be considered in my ML model.
+Since the dealer has a national database and ships the cars to all locations the state and region column/ feature will not be considered in my ML model.
 
 THE PROCESS OF CREATING BEST ML MODEL
 
 Data Understanding & Preparation
+
 After performing EDA I checked for
 * missing values, 
 * outliers, 

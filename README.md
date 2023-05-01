@@ -81,6 +81,7 @@ In the process I :
 Once the data was relatively well cleaned I split it into smaller datasets by type and continued cleaning the smaller datasets in new Jupyter Notebooks.
 
 Individual Jupyter Notebooks for Each Car Type
+
 After checking the distribution of the odometer data and since it wasn't symmetrical, I used median to replace NaN values.
 Since each car type have very specific values for its type, I finely felt comfortable filling the missing values for each feature proportionately. 
 Now there were no missing values. I also dropped the type feature since values were all the same.
@@ -88,6 +89,7 @@ I applied ordinal encoding to condition feature, all other non numerical feature
 After creating histograms of price column and the logarithm of the price column to decide which one is more suitable for the machine learning model, I chose the logarithm for each ML model for each car type.
 
 Selecting the best ML model.
+
 Here are the steps I took for each car type:
 split the data frame with a Logarithmic target: price,
 Scaled the data with a StandardScaler to:
@@ -106,10 +108,12 @@ Ran best models through RFE*
 Selected the best model with lowest testing MSE
 
 Selecting features that influence the price of each car type.
+
 After selecting the best ML model I ran that model through permutation Feature selection and got a list of the most influential features that affect the ML model.
 To make the results more readable I created a chart of the features and their importance. 
 
 Results
+
 All results for each car type are listed in the pages below.
 
 I also created a separate document for the "client" that is not familiar with the ML jargon. 
